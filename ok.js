@@ -146,4 +146,4 @@ else{
     
 })
 
-servere.listen(5000);
+servere.listen(80);
